@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"vibe-d": "~>0.9.4"
+	},
+	"name": "dragon-maid"
+}
